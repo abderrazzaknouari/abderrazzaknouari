@@ -3,20 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+  <title>Abderrazzak Nouari</title>
 </head>
 <body>
 
-<h1 align="center">Hello, I'm Abderrazzak Nouari</h1>
-<h3 align="center">Aspiring Engineer in Big Data and Cloud Computing</h3>
+<h1 align="center">Greetings! I'm Abderrazzak Nouari</h1>
+<h3 align="center">Striving to Excel in Big Data and Cloud Computing</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abderrazzaknouari&label=Profile%20views&color=0e75b6&style=flat" alt="abderrazzak-nouari" />
 </p>
 
-- 👨‍💻 Passionate about **Java, JavaScript, C++, and Cloud Computing.**
-- 💼 Currently pursuing a degree in **Big Data and Cloud Computing Engineering.**
-- 🌐 Connect with me: **abderrazzak.nouari@gmail.com**
+- 👨‍💻 Passionate about **Java, JavaScript, C++, and the Cloud.**
+- 💼 Currently navigating the world of **Big Data and Cloud Computing Engineering.**
+- 🌐 Reach out to me at: **abderrazzak.nouari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,14 +35,13 @@
 <p align="left">
   📚 Lifelong learner<br>
   🎸 Hobbyist musician<br>
-  🌱 Enthusiastic about new technologies<br>
+  🌱 Enthusiastic about cutting-edge technologies<br>
 </p>
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=abderrazzaknouari&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="abderrazzak-nouari" />
 </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrazzaknouari&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=html,css&custom_title=Most%20Used%20Languages&token=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" alt="abderrazzak-nouari" />
-
 
 </body>
 </html>
