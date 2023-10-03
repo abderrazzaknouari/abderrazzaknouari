@@ -41,8 +41,8 @@
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=abderrazzaknouari&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="abderrazzak-nouari" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abderrazzaknouari&theme=tokyonight&hide_border=true" alt="abderrazzak-nouari" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrazzaknouari&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="abderrazzak-nouari" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrazzaknouari&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=html,css&custom_title=Most%20Used%20Languages&token=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" alt="abderrazzak-nouari" />
+
 
 </body>
 </html>
