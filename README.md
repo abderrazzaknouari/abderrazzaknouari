@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Abderrazzak Nouari</title>
+</head>
+<body>
+
 <h1 align="center">Hello, I'm Abderrazzak Nouari</h1>
 <h3 align="center">Aspiring Engineer in Big Data and Cloud Computing</h3>
 
@@ -22,8 +31,18 @@
   <!-- Example: <a href="https://example.com" target="_blank"> <img src="example-icon-url" alt="example" width="40" height="40"/> </a> -->
 </p>
 
+<h3 align="left">Other Interests:</h3>
+<p align="left">
+  📚 Lifelong learner<br>
+  🎸 Hobbyist musician<br>
+  🌱 Enthusiastic about new technologies<br>
+</p>
+
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=abderrazzaknouari&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="abderrazzak-nouari" />
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abderrazzaknouari&theme=tokyonight&hide_border=true" alt="abderrazzak-nouari" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrazzaknouari&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="abderrazzak-nouari" /></p>
+
+</body>
+</html>
