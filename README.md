@@ -1,7 +1,7 @@
 <h1 align="center">Abderrazzak Nouari</h1>
 <h3 align="center">Big Data and Cloud Computing Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abderrazzak-nouari&label=Profile%20views&color=0e75b6&style=flat" alt="abderrazzak-nouari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abderrazzaknouari&label=Profile%20views&color=0e75b6&style=flat" alt="abderrazzak-nouari" /> </p>
 
 - 👨‍💻 I'm passionate about **Java, JavaScript,C++, and Cloud Computing.**
 
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abderrazzak-nouari&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="abderrazzak-nouari" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abderrazzaknouari&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="abderrazzak-nouari" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abderrazzak-nouari&theme=tokyonight&hide_border=true" alt="abderrazzak-nouari" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrazzak-nouari&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="abderrazzak-nouari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abderrazzaknouari&theme=tokyonight&hide_border=true" alt="abderrazzak-nouari" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrazzaknouari&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="abderrazzak-nouari" /></p>
